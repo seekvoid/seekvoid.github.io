@@ -1,0 +1,9 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>seekvoid</title>
+        <link>http://seekvoid.top/</link>
+        <description>seekvoid</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 18 Apr 2021 05:07:45 &#43;0800</lastBuildDate>
+            <atom:link href="http://seekvoid.top/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>

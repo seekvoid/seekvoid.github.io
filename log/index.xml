@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logs on seekvoid</title>
+    <link>http://seekvoid.top/log/</link>
+    <description>Recent content in Logs on seekvoid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 18 Apr 2021 05:07:45 +0800</lastBuildDate>
+    
+	<atom:link href="http://seekvoid.top/log/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2021 4 18</title>
+      <link>http://seekvoid.top/log/2021-4-18/</link>
+      <pubDate>Sun, 18 Apr 2021 05:07:45 +0800</pubDate>
+      
+      <guid>http://seekvoid.top/log/2021-4-18/</guid>
+      <description>我的目标是什么？
+我今天所做的符合来自我目标的要求吗？
+你今天学到了什么？放弃了什么？
+今日任务  电路复习 信号复习  自省 </description>
+    </item>
+    
+    <item>
+      <title>序</title>
+      <link>http://seekvoid.top/log/%E5%BA%8F/</link>
+      <pubDate>Sun, 18 Apr 2021 05:03:22 +0800</pubDate>
+      
+      <guid>http://seekvoid.top/log/%E5%BA%8F/</guid>
+      <description>我的目标是什么？
+我今天所做的符合来自我目标的要求吗？
+你今天学到了什么？放弃了什么？</description>
+    </item>
+    
+  </channel>
+</rss>
